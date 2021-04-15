@@ -10,15 +10,20 @@ https://madebymike.github.io/html5-periodic-table/
 
 ## Web Font Services
 
-Google Fonts
+### Google Fonts
+Lots of options, but some of the fonts are limited in style, or are copies of more well known paid fonts. You can typically find something here that works well for any app or site. Manually include styles and weights through the CSS link call. Includes downloadable versions as well for local work & design. https://fonts.google.com/
 
-Adobe Web Fonts (part of Creative Cloud)
+### Adobe Web Fonts (part of Creative Cloud)
+Requires a subscription to Adobe CC, but has many OpenType font options with lots of glyphs and features. Will sync to your local machine via the CC Utility. https://fonts.adobe.com/
 
-Typography.com (Hoefler & Co)
+### Typography.com (Hoefler & Co)
+My personal favorite Type Foundry, but requires purchasing individual fonts to use on their custom service. No monthly fees (just your initial font purchase) https://www.typography.com/
 
-MyFonts
+### MyFonts
+Great selection but will require you to self host. No monthly fees. https://www.myfonts.com/licensing/webfont/
 
-Linotype
+### Linotype
+Famous font foundry with many styles and classics. Pay once or pay as you go options. https://www.linotype.com/7026/web-fonts-directly-from-linotypecom.html
 
 ## Further Reading
 There's only so much one can fit in under an hour. There's a wealth of information below and many of these texts are considered foudnational texts for students in Graphic Design programs.
